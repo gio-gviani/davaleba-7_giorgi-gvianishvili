@@ -1,5 +1,17 @@
-
-
-
-
-
+@media (max-width:900px) {
+  .fa-bars {
+    display: block;
+  }
+  nav {
+    display: none;
+  }
+}
+@media (max-width:650px) {
+  .text_div h2 {
+    font-size: 175%;
+  }
+  .text_div h5 {
+    font-size: 10px;
+  }
+  
+}

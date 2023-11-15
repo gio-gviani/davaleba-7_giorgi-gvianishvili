@@ -130,3 +130,6 @@ li a {
   font-weight: 400;
   line-height: normal;
 }
+.fa-bars {
+  display: none;
+}
