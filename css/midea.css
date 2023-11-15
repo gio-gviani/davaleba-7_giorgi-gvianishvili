@@ -8,10 +8,13 @@
 }
 @media (max-width: 650px) {
   .text_div h2 {
-    font-size: 175%;
+    font-size: 190%;
   }
   .text_div h5 {
-    font-size: 10px;
+    font-size: 15px;
+  }
+  .s-1 {
+    height: 440px;
   }
 }
 @media (max-width: 775px) {
@@ -20,7 +23,6 @@
   }
   .infowrapper {
     width: 100%;
-    margin: 0px 30px;
   }
 }
 @media (max-width: 600px) {
